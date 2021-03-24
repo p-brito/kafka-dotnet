@@ -1,6 +1,6 @@
 # kafka-dotnet
 
-The purpose of this repository is to explain step by step how to build producer and consumer applications that are interacting using [Confluent Kafka.](https://www.confluent.io/)
+The purpose of this repository is to explain step by step how to build producer and consumer applications that interact using [Confluent Kafka.](https://www.confluent.io/)
 ![Create a cluster](assets/kafka-dotnet-demo.gif)
 
 ## Getting started
